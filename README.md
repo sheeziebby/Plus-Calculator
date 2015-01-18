@@ -1,6 +1,6 @@
 Plus-Calculator
 ===============
 
-A calculator designed around a plus sign. This calculator is for addition only and I'm considering doing one for each individual operation(division, multiplication, etc.)
+A calculator designed around a plus sign. This calculator is only for addition only and I'm considering developing an individual design for each individual operation(division, multiplication, subtraction, etc.)
 
-this is for a treehouse contest.
+This application was developed by me for a treehouse contest.
